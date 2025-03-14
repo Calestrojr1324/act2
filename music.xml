@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music>
+    <song id="1">
+        <songTitle>Fearless</songTitle>
+        <artist>Taylor swift</artist>
+        <albums>
+            <album>Fearless</album>
+            <album>Red</album>
+            <album>Lover</album>
+        </albums>
+        <debutYear>2008</debutYear>
+    </song>
+    <song id="2">
+        <songTitle>Lapit</songTitle>
+        <artist>Yeng constantino</artist>
+        <albums>
+            <album>Lapit</album>
+            <album>Journey</album>
+            <album>Salamat</album>
+        </albums>
+        <debutYear>2009</debutYear>
+    </song>
+    <song id="3">
+        <songTitle>Made in The A.M </songTitle>
+        <artist>One direction</artist>
+        <albums>
+            <album>Made in The A.M</album>
+            <album>Take me Home</album>
+            <album>Midnight Memories</album>
+        </albums>
+        <debutYear>2015</debutYear>
+    </song>
+    <song id="4">
+        <songTitle>Rivermaya</songTitle>
+        <artist>Rivermaya</artist>
+        <albums>
+            <album>Rivermaya</album>
+            <album>Trip</album>
+            <album>Atomic Bomb</album>
+        </albums>
+        <debutYear>1994</debutYear>
+    </song>
+    <song id="5">
+        <songTitle>÷ (Divide)</songTitle>
+        <artist>Ed Sheeran</artist>
+        <albums>
+            <album>÷ (Divide)</album>
+            <album>+ (Plus) (2011) </album>
+            <album>× (Multiply) (2014)</album>
+        </albums>
+        <debutYear>2017</debutYear>
+    </song>
+</music>
